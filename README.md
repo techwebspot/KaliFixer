@@ -8,9 +8,9 @@ Requirements:
 2. bs4 module (If inbuilt is not in your machine)
 3. urllib & urllib.request module (If inbuilt is not in your machine)
 
-If you don't have this above mentioned module then open terminal and type:
-pip install bs4
-pip install urllib
+If you don't have python 3 then open terminal and type:
+
+apt-get install python3
 
 How to run the script:
 

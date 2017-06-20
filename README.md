@@ -16,6 +16,8 @@ If you don't have module which above describe then open terminal and type:
 
 pip3 install bs4
 
+pip3 install BeautifulSoup4
+
 pip3 install urllib 
 
 How to run the script:

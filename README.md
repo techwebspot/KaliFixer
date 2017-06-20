@@ -12,6 +12,12 @@ If you don't have python 3 then open terminal and type:
 
 apt-get install python3
 
+If you don't have module which above describe then open terminal and type:
+
+pip3 install bs4
+
+pip3 install urllib 
+
 How to run the script:
 
 1.First of all navigate to the directory in which the script is

@@ -14,7 +14,7 @@ This script will first find the version of Kali using kernel headers of your Kal
 1. Download the zip file using the "Clone or download" button.
 2. Navigate to the download directory and unzip the archive.
 3. Open a terminal and navigate to the target directory.  
-`cd ~/Downloads/KaliFixer`
+`cd ~/Downloads/KaliFixer-master`
 4. Give permission to install script.  
 `chmod +x install.sh`
 4. Install the script.  
@@ -27,13 +27,13 @@ This script will first find the version of Kali using kernel headers of your Kal
 ```
 cd ~/Downloads
 git clone https://github.com/techwebspot/KaliFixer.git
-cd KaliFixer
+cd KaliFixer-master
 chmod +x install.sh
 KaliFixer
 ```
   
 #### Credits:
 
-I'd like to thank hackingvision.com owner to help me make my script better.
+I'd like to thank hackingvision.com owner & michael (condor) to help me make my script better.
 
 If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo.

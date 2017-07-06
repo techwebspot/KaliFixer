@@ -17,9 +17,9 @@ This script will first find the version of Kali using kernel headers of your Kal
 `cd ~/Downloads/KaliFixer-master`
 4. Give permission to install script.  
 `chmod +x install.sh`
-4. Install the script.  
+5. Install the script.  
 `./install.sh`
-5. Execute the script in terminal from any directory.  
+6. Execute the script in terminal from any directory.  
 `KaliFixer`
 
 #### Installing from command line

@@ -36,4 +36,4 @@ KaliFixer
 
 I'd like to thank hackingvision.com owner to help me make my script better.
 
-If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo
+If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo.

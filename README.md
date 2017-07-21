@@ -1,5 +1,11 @@
 # KaliFixer
 
+#### Credits:
+
+I'd like to thank hackingvision.com owner & michael (condor) to help me make my script better.
+
+If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo.
+
 #### Description:
 KaliFixer is a bash script created to help newbies in Kali Linux. We have all been there that dreaded moment when we try to update Kali Linux using apt-get only to be presented with update errors. Don’t worry KaliFixer is on hand !.  
 
@@ -32,8 +38,3 @@ chmod +x install.sh
 KaliFixer
 ```
   
-#### Credits:
-
-I'd like to thank hackingvision.com owner & michael (condor) to help me make my script better.
-
-If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo.

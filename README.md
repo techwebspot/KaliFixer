@@ -2,7 +2,7 @@
 
 #### Credits:
 
-I'd like to thank hackingvision.com owner & michael (condor) to help me make my script better.
+I'd like to thank https://hackingvision.com owner & michael (condor) to help me make my script better.
 
 If this tool came in helpful for you please consider leaving a star at Kali Fixer Github repo.
 
